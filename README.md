@@ -8,6 +8,8 @@ Uses my [GitHub-Actions Reusable Workflows Library](https://github.com/HariSekho
 
 ## Specific Contexts
 
+Available context information changes depending on the context that triggered the workflow, so you will likely need to check and compare these more specific context dumps:
+
 [![Dump Contexts Push](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/dump_contexts.yaml/badge.svg?event=push)](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/dump_contexts.yaml?query=event%3Apush) - [Push Contexts](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/dump_contexts.yaml?query=event%3Apush)
 
 [![Dump Contexts Pull Request](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/dump_contexts.yaml/badge.svg?event=pull_request)](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/dump_contexts.yaml?query=event%3Apull_request) - [Pull Request Contexts](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/dump_contexts.yaml?query=event%3Apull_request)
