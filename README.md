@@ -2,7 +2,7 @@
 
 Dumps GitHub Actions contexts for debugging and exploring undocumented fields to be used in advanced GitHub Actions workflows.
 
-Uses my [GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions) Reusable Workflows Library where there is much more interesting stuff.
+Uses my [GitHub-Actions Reusable Workflows Library](https://github.com/HariSekhon/GitHub-Actions) where there is much more interesting and advanced stuff.
 
 See Also:
 
