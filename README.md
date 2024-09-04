@@ -24,10 +24,9 @@ Available context information changes depending on the context that triggered th
 
 [![Dump Contexts Schedule](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/dump_contexts.yaml/badge.svg?event=schedule)](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/dump_contexts.yaml?query=event%3Aschedule) - [Schedule Contexts](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/dump_contexts.yaml?query=event%3Aschedule)
 
+### GitHub Documentation
 
-#### GitHub Documentation
-
-https://docs.github.com/en/actions/learn-github-actions/contexts#example-printing-context-information-to-the-log
+<https://docs.github.com/en/actions/learn-github-actions/contexts#example-printing-context-information-to-the-log>
 
 ## More Core Repos
 
