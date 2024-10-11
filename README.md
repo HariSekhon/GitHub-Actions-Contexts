@@ -7,6 +7,7 @@
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/GitHub-Actions-Contexts?logo=github)](https://github.com/HariSekhon/GitHub-Actions-Contexts/commits/master)
 
 [![Dump Contexts](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/dump_contexts.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/dump_contexts.yaml)
+[![Markdown](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/markdown.yaml)
 
 Dumps GitHub Actions contexts for debugging and exploring undocumented fields to be used in advanced GitHub Actions workflows.
 
