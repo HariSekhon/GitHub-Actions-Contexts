@@ -12,6 +12,11 @@
 Dumps GitHub Actions contexts for debugging and exploring undocumented fields to be used in advanced GitHub Actions
 workflows.
 
+Dumps for:
+
+- Linux (Ubuntu latest inside container for max info including Docker)
+- macOS latest - you'll want this to reference for iOS mobile development CI/CD reference
+
 Uses my [GitHub-Actions Reusable Workflows Library](https://github.com/HariSekhon/GitHub-Actions)
 where there is much more interesting and advanced stuff.
 
@@ -35,6 +40,16 @@ so you will likely need to check and compare these more specific context dumps:
 ### GitHub Documentation
 
 <https://docs.github.com/en/actions/learn-github-actions/contexts#example-printing-context-information-to-the-log>
+
+### Knowledge Base
+
+Check the Knowledge-Base
+[GitHub Actions Best Practices](https://github.com/HariSekhon/Knowledge-Base/blob/main/github-actions.md)
+page.
+
+### GitHub Actions Library
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HariSekhon&repo=GitHub-Actions&theme=ambient_gradient&description_lines_count=3)](https://github.com/HariSekhon/GitHub-Actions)
 
 ## More Core Repos
 
